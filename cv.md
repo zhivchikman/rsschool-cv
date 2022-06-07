@@ -7,3 +7,16 @@
 
 ## **A few words about me**
 Hi! My name is Victor, i'm 26. I've realized I don't like my last profession and i've decided to study front-end development at RS School. I would my future work to benefit people. This is my goal. I'm a fun guy, love talking to people. My hobby is cycling on my fixed gear bike with my friends.
+
+## **Skills**
+I am currently studying in the preparatory course “JavaScript/Front-end. Stage 0"
+
+## **Code example**
+``` js
+function sum(a, b) {
+  return a + b;
+}
+
+let result = sum(1, 2);
+alert( result );
+```
