@@ -20,3 +20,12 @@ function sum(a, b) {
 let result = sum(1, 2);
 alert( result );
 ```
+
+## **Education**
+* **2014-2020** Kazan National Research Technical University named Andrey Tupolev. Specialty-Aircraft-and Helicopter Engineering.
+* **RS Schools Course:** «JavaScript/Front-end. Stage 0» (in progress)
+
+## **Languages**
+* Russian - Native
+* Ukrainian - А1
+* English - А1
